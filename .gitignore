@@ -1,0 +1,11 @@
+# Ignorar dataset
+data/dataset.csv
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+.env
+
+# Ignorar configuraciones del sistema
+.DS_Store
+
