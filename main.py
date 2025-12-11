@@ -1,8 +1,5 @@
 from gui.window import DashboardWindow
 
-def main():
+if __name__ == '__main__':
     app = DashboardWindow()
     app.run()
-
-if __name__ == '__main__':
-    main()
